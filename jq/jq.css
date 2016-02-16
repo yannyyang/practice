@@ -1,0 +1,38 @@
+.container{
+	width: 1024px;
+	margin: 0 auto;
+}
+.w100{
+	width: 100px;
+}
+.bg01{
+	background: #eee !important;
+	font-size: 25px;
+}
+a.btn{
+	display: inline-block;
+	margin:9px;
+	padding: 4px 22px;
+	background: #ff6900;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 4px;
+	text-align: center;
+	font-weight: bold;
+}
+.show{
+	padding: 20px;
+	background: #f1f1bb;
+	text-align: center;
+}
+.container{
+	margin: 50px auto;
+}
+
+.prag{
+	background: grey;
+	margin: 5px 0;
+	padding: 10px;
+	text-align: center;
+	display: inline-block;
+}
